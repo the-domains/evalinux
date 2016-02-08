@@ -1,7 +1,7 @@
 name: EVALinux
 favicon: null
-layout_spectrum: 0.22178092086687684
-typography_spectrum: 0.5531996318604797
+layout_spectrum: 0.24221
+typography_spectrum: 0.23811
 title: 'EVALinux | Official Website'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#321448'
+    - '#d8d8d8'
+    - '#b7b7b7'
+    - '#736284'
   brandStrength: 0.5417916581500322
   lightness: 0.073954634135589
   saturation: 0.33145853178575635
