@@ -43,6 +43,9 @@ navigation:
   - name: Links
     id: 69f623eb-c504-4161-b1be-cfefa5a8fd00
     type: content
+  - name: Contact
+    id: 7d7860c8-7257-4e91-90c8-c4391865c5f7
+    type: content
 favicon: null
 title: EVALinux | Official Website
 description: When 'just works' is not enough
