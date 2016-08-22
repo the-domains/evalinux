@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Home
+    id: 3b1662b3-a5cc-464e-842c-69e967fd7449
+    type: content
 favicon: null
 title: EVALinux | Official Website
 description: When 'just works' is not enough
